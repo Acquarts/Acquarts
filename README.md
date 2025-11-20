@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**Acquarts/Acquarts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior AI Engineer & Data Scientist focused on machine learning, deep learning and building real AI applications.  
 
-Here are some ideas to get you started:
+I enjoy creating practical solutions, analyzing real-world data, and deploying ML models using FastAPI, Streamlit, and cloud platforms.  
+Always learning, always building.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Data Science and Applied AI Engineer
+- 🌱 I’m currently learning ML Engineer and MLOps
+- 👯 I’m looking to collaborate on any interesting project
+- 🤔 I’m looking for help with maths
+- 💬 Ask me about art and design
+- 📫 How to reach me: info.aza.future@gmail.com
+- 😄 Pronouns: Adri
+- ⚡ Fun fact: I'm artist..
 -->
