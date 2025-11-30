@@ -1,6 +1,6 @@
 # Hi, I'm Adrián 👋
 
-I build AI solutions that work in production — from predictive models to conversational agents powered by LLMs.
+I build AI solutions that work in production, from predictive models to conversational agents powered by LLMs.
 
 My focus is on **Applied AI**: turning complex problems into working systems using Machine Learning, RAG pipelines, and agentic architectures. I enjoy the full journey from prototype to deployment.
 
