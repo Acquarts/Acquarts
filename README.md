@@ -17,7 +17,7 @@ Check out my work at [azafuture.com](https://www.azafuture.com), where I share p
 ## About Me
 
 - 🎯 **Applied AI Engineer** at Aselvia, building conversational agents with Python, RAG, LangChain, FastAPI and vector databases
-- 📈 Previously **Data Scientist** at Tiendas MGI — demand forecasting, Power BI dashboards, pricing optimization
+- 📈 Previously **Data Scientist** at Tiendas MGI demand forecasting, Power BI dashboards, pricing optimization
 - 🎓 **Master's in Applied AI** from Instituto Europeo de Posgrado
 - 🛠️ I prototype fast, iterate often, and ship things that solve real problems
 -  🎨 Senior 3D Artist background for video games
