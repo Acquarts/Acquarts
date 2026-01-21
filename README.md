@@ -36,8 +36,8 @@ Automation:     n8n
 
 ## Let's Connect
 
-- 🌐 Portfolio: [azafuture.com](https://www.azafuture.com)
-- 💼 LinkedIn: [adrianzambranaacquaroni](https://linkedin.com/in/adrian-zambrana)
+- 🌐 Portfolio: [AZA FUTURE](https://www.azafuture.com)
+- 💼 LinkedIn: [Adrián Zambrana](https://linkedin.com/in/adrian-zambrana)
 - 🐙 GitHub: [Acquarts](https://github.com/Acquarts)
 - 📧 Email: info.aza.future@gmail.com
 
