@@ -29,7 +29,7 @@ Languages:      Python, SQL
 ML/DL:          scikit-learn, TensorFlow, PyTorch, Keras
 Computer Vision: OpenCV, YOLO, ResNet, VGG, EfficientNet
 LLMs & RAG:     LangChain, GPT, Claude, Gemini, Pinecone, Hugging Face
-Cloud & Deploy: AWS (Bedrock, Lightsail), Docker, FastAPI, Streamlit
+Cloud & Deploy: CI/CD, Vertex AI, Cloud Run, Arize, RestAPI, FastAPI, Docker, AWS, Streamlit, Railway
 Data & BI:      pandas, Power BI, Matplotlib, Seaborn, Plotly
 Automation:     n8n
 ```
