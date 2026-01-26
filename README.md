@@ -11,8 +11,8 @@ Check out my work at [azafuture.com](https://www.azafuture.com), where I share p
 - 🤖 **AI Agents**: conversational systems, RAG pipelines, LangChain, multi-agent architectures
 - 📊 **Data Science**: predictive modeling, demand forecasting, customer segmentation
 - 🧠 **Deep Learning**: computer vision (YOLO, ResNet, EfficientNet), neural networks
-- 🚀 **MLOps & Deployment**: FastAPI, Docker, AWS, Streamlit, Railway
-- 🔄 **Automation**: n8n workflows, intelligent pipelines
+- 🚀 **MLOps & Deployment**: CI/CD, Vertex AI, Cloud Run, Arize, FastAPI, Docker, AWS, Streamlit, Railway
+- 🔄 **Automation**: Make, n8n workflows, intelligent pipelines
 
 ## About Me
 
