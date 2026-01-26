@@ -11,12 +11,12 @@ Check out my work at [azafuture.com](https://www.azafuture.com), where I share p
 - 🤖 **AI Agents**: conversational systems, RAG pipelines, LangChain, multi-agent architectures
 - 📊 **Data Science**: predictive modeling, demand forecasting, customer segmentation
 - 🧠 **Deep Learning**: computer vision (YOLO, ResNet, EfficientNet), neural networks
-- 🚀 **MLOps & Deployment**: CI/CD, Vertex AI, Cloud Run, Arize, FastAPI, Docker, AWS, Streamlit, Railway
+- 🚀 **MLOps & Deployment**: CI/CD, Vertex AI, Cloud Run, Arize, RestAPI, FastAPI, Docker, AWS, Streamlit, Railway
 - 🔄 **Automation**: Make, n8n workflows, intelligent pipelines
 
 ## About Me
 
-- 🎯 **Applied AI Engineer** at Aselvia, building conversational agents with Python, RAG, LangChain, FastAPI and vector databases
+- 🎯 **Applied AI Engineer** Previously at Aselvia, building conversational agents with Python, RAG, LangChain, FastAPI and vector databases
 - 📈 Previously **Data Scientist** at Tiendas MGI demand forecasting, Power BI dashboards, pricing optimization
 - 🎓 **Master's in Applied AI** from Instituto Europeo de Posgrado
 - 🛠️ I prototype fast, iterate often, and ship things that solve real problems
