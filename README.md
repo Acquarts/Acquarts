@@ -16,6 +16,7 @@ Check out my work at [azafuture.com](https://www.azafuture.com), where I share p
 
 ## About Me
 
+- 🛸 **AI Engineer** at Accenture
 - 🎯 **Applied AI Engineer** Previously at Aselvia, building conversational agents with Python, RAG, LangChain, FastAPI and vector databases
 - 📈 Previously **Data Scientist** at Tiendas MGI demand forecasting, Power BI dashboards, pricing optimization
 - 🎓 **Master's in Applied AI** from Instituto Europeo de Posgrado
